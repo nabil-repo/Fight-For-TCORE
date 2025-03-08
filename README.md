@@ -42,11 +42,10 @@ https://drive.google.com/file/d/17yPS2fWZrR_SGOz_8fE3U05LoQumzIeh/view?usp=shari
 - Create New URP 3D project.  
 - Install **Unity Netcode**, **Relay**, and **Lobby** packages from Package manager.
 - Install thirdweb sdk from :- https://github.com/thirdweb-dev/unity/releases/download/v4.7.5/thirdweb-unity-sdk-v4.7.5.unitypackage   
-- Import Game **.unitypackage** by draging into projact view OR Double Click on **.unitypackage**. 
+- Import Game **.unitypackage** by Draging into project window OR Double Click on **.unitypackage**. 
 
 ### 3️⃣ Build  
 - Now Build And Run For OpenGL/Windows platform.  
-
 
 
 ## 📩 Contact  
