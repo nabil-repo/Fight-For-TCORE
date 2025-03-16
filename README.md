@@ -34,7 +34,7 @@
 
 ### 1️⃣ Download Game .unitypackage   
 
-https://drive.google.com/file/d/17yPS2fWZrR_SGOz_8fE3U05LoQumzIeh/view?usp=sharing
+https://1drv.ms/f/c/8e8787ddc241f71d/EpzCu6fggzNJlyf97HbAkQUB5NwchU8w86p92LDHLnk5qw?e=AUdUb5
 
 
 ### 2️⃣ Open in Unity  
