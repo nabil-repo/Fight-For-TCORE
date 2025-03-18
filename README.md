@@ -6,7 +6,7 @@
 
 ## 🎮 Play Now !!!
 - For WebGL (Web Hosted - Play On browser) :- ▶️ https://nabil-ansari.itch.io/fight-for-tcore  
-- For Windows Build :-
+- For Windows Build (High Graphics):-
     -  Download And Extract :- https://1drv.ms/f/c/8e8787ddc241f71d/EtKpm26uM7NPld5qGLNyJY4BP8QPcTr0zb7ssFkrvYxD7Q?e=rb4iiP
     - Run Fight For TCORE.exe
 
